@@ -22,7 +22,7 @@
 
 - **Machine Learning**: Developed models using content-based and collaborative filtering with NLP and Neural Networks. Evaluated performance using MSE and RMSE.
 - **Mobile Development**: Created an Android app in Kotlin, integrating it with the API from the Cloud Computing team.
-- **Cloud Computing**: Built a robust RESTful API, containerized with Docker, and deployed on Google App Engine. Implemented load balancing and logging with Google Cloud Logging.
+- **Cloud Computing**: Built a robust RESTful API, Integrate Machine learning model with backend and mobile application. Utilize Docker and Google Cloud Platform for deployment and monitoring
 
 ### Project Status
 
